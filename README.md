@@ -1,0 +1,1 @@
+# Leitor_de_tensao-_e-_controle_de_temperatura
