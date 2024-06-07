@@ -23,7 +23,7 @@ Circuitos:
 > 
 ---
 Colaboradores:
-- Alit Yure Uchoa Ribeiro[(link)]()
+- Alit Yure Uchoa Ribeiro[(link)](https://github.com/Allitty)
 - Eduardo Alves de Sousa[(link)](https://github.com/Eduardo-Alves-de-Sousa)
 - Francisco Rodrigo Uchôa Ferreira[(link)](https://github.com/RodrigoUchoa001)
 - Francisco Wallyson do Nascimento Silva[(link)](https://github.com/wallyson134)
