@@ -1,7 +1,7 @@
 # Projeto Final Física II: Leitor de tensão e controle de Temperatura
 ---
 Objetivo do Projeto:
-- O projeto final de Física II ministrada pelo D.r. José Vigno Moura Sousa tem como objetivo a produção de um sistema integrado em Arduíno para leitura de tensão e controle de temperatura.
+- O projeto final de Física II ministrada pelo D.r. [José Vigno Moura Sousa](https://www.linkedin.com/in/jose-vigno-6104a866/?originalSubdomain=br) tem como objetivo a produção de um sistema integrado em Arduíno para leitura de tensão e controle de temperatura.
 - O sistema deve exibir e ajustar as medições em um display LCD.
 ---
  Componentes Utilizados no Projeto:
