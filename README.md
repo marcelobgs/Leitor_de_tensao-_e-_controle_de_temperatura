@@ -6,7 +6,7 @@ Objetivo do Projeto:
 ---
  Componentes Utilizados no Projeto:
  - Arduíno Uno R3
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.eletrodex.net%2Fplacasmodulos%2Farduino%2Farduino-uno-r3-cabo-usb&psig=AOvVaw2MdlWqQTp1yaHQimklfAqL&ust=1717856089257000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOi96uHWyYYDFQAAAAAdAAAAABAK" alt="Arduíno">
- - LCD 16 x 2
- - Sensor de temperatura [TMP36]
- - Potenciômetro de 250 kΩ
+<img src="https://images.tcdn.com.br/img/img_prod/900872/arduino_uno_r3_cabo_usb_2871_1_07f18cc89ab02c14be2c9fb5d9ae528c.jpg" alt="Arduíno">
+- LCD 16 x 2
+- Sensor de temperatura [TMP36]
+- Potenciômetro de 250 kΩ
